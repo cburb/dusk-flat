@@ -1,3 +1,7 @@
+# Dusk Flat
+
+Fork of Arc Theme so that I can customize it.
+
 # Arc Theme
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and various desktop shells, window managers and applications. It's well suited for GTK based desktop environments such as GNOME, Cinnamon, Xfce, Unity, MATE, Budgie etc.
